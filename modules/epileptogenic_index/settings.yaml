@@ -1,0 +1,14 @@
+loaded_electrodes: 1-4,7-36,42-43,46-69,72-95
+epoch_choice: subpt01_seizure
+epoch_choice__trial_starts: 0
+epoch_choice__trial_ends: 10
+epoch_file_name: subpt01_seizure
+subject_code: subpt01
+reference_name: bipolar
+time_window:
+- 0
+- 10
+load_electrodes: 1-4,7-36,42-43,46-69,72-95
+condition: sz1
+epoch_name: sz1
+project_name: Retrostudy
