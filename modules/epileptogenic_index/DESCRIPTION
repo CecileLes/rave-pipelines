@@ -8,6 +8,6 @@ License: MIT
 Authors@R: c(
     person("your first name", "last/family name", email = your.email@edu", role = c("aut", "cre"))
     )
-Description: Add short sentences to describe what this pipeline does
+Description: first EI module version
 BugReports: https://github.com/your_github_name/pipeline_repository/issues
 URL: https://github.com/your_github_name/pipeline_repository
